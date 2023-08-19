@@ -1,0 +1,12 @@
+.hero-image {
+  display: block;
+  margin: 3em auto;
+}
+
+.header-info {
+  padding: 0 2em;;
+}
+
+.header-info > p {
+  color: #222222;
+}

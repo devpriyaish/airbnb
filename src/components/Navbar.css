@@ -1,0 +1,9 @@
+.navbar {
+  box-shadow: 0 0 0.5em grey;
+  height: 5em;
+  padding: 1.1em 2em;
+}
+
+.navbar > img {
+  width: 9em;
+}
